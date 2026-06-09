@@ -50,14 +50,11 @@ Breadth-first search (BFS) means checking each neighbor of a state or node to fi
 This program implements and runs both algorithms in the main() function. The 3-on-3 MvC problem isn't a particularly big one, and the optimal path to the goal includes only 12 states.
 
 ## Informed Search Description
-Romania
 
-### The Program
+Roads of Romania provides a number of Romanian cities and a distance between them as path costs.  The costs impact how much is "spent" to travel to one city, versus perhaps multiple paths with a lower overall travel cost.
 
-### The Algorithms
+### The Program and Algorithms
 
-### Admissibility and Consistency Checks
-
-### Admissibility
-
-### Consistency
+    Uniform-cost Search (UCS)
+    Greedy Best-first Search
+    A*
