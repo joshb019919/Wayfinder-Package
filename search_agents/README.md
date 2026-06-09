@@ -1,25 +1,29 @@
-Search-Agents
+# Search-Agents
 
 Pathfinding intelligent agents utilizing these algorithms:
-Uninformed Search
+
+## Uninformed Search
 
     Depth-first Search (DFS)
     Breadth-first Search (BFS)
 
 Solves the Missionaries vs. Cannibals problem in state space searches.
-Informed Search
+
+## Informed Search
 
     Uniform-cost Search (UCS)
     Greedy Best-first Search
     A*
 
 Finds the optimal path through Romania from one city to another.
-Admissibility and Consistency Check
+
+## Admissibility and Consistency Check
 
     A*
 
 Checks the admissibility and consistency of the heuristics of the data used in the searches.
-Usage
+
+## Usage
 
 python search_agent.py
 Dependencies
